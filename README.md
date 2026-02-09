@@ -127,7 +127,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Extensions
 
-* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 1,886 | 🐛 0 | 🌐 C++ | 📅 2026-02-04 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 1,886 | 🐛 0 | 🌐 C++ | 📅 2026-02-08 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
 * [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 850 | 🐛 62 | 🌐 TypeScript | 📅 2025-12-26 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 * [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 418 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - Plasma 5 applet in order to show the window appmenu.
 * [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 368 | 🐛 22 | 🌐 C++ | 📅 2025-12-26 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
@@ -144,7 +144,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Themes
 
-* [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,146 | 🐛 71 | 🌐 QML | 📅 2025-12-27 - A MacOS Big Sur theme for KDE Plasma.
+* [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,147 | 🐛 71 | 🌐 QML | 📅 2025-12-27 - A MacOS Big Sur theme for KDE Plasma.
 * [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) ⭐ 935 | 🐛 30 | 🌐 QML | 📅 2025-12-17 - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
 * [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) ⭐ 658 | 🐛 15 | 🌐 QML | 📅 2024-03-19 - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
 * [Layan](https://github.com/vinceliuice/Layan-kde) ⭐ 490 | 🐛 36 | 🌐 QML | 📅 2025-11-27 - A flat design theme for KDE Plasma desktop.
@@ -154,7 +154,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 * [Fluent](https://github.com/vinceliuice/Fluent-kde) ⭐ 218 | 🐛 28 | 🌐 QML | 📅 2025-11-10 - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
 * [Hello](https://github.com/n4n0GH/hello) ⚠️ Archived - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
 * [Qogir](https://github.com/vinceliuice/Qogir-kde) ⭐ 191 | 🐛 28 | 🌐 QML | 📅 2024-12-20 - A flat design theme for KDE Plasma desktop.
-* [ChromeOS](https://github.com/vinceliuice/ChromeOS-kde) ⭐ 184 | 🐛 24 | 🌐 QML | 📅 2025-10-25 - A materia Design theme for KDE Plasma desktop.
+* [ChromeOS](https://github.com/vinceliuice/ChromeOS-kde) ⭐ 185 | 🐛 24 | 🌐 QML | 📅 2025-10-25 - A materia Design theme for KDE Plasma desktop.
 * [Canta](https://github.com/vinceliuice/Canta-kde) ⭐ 78 | 🐛 7 | 🌐 QML | 📅 2022-05-17 - A flat design theme for KDE Plasma desktop.
 * [Darkine KDE](https://github.com/Rokin05/darkine-kde) ⭐ 45 | 🐛 1 | 🌐 CSS | 📅 2020-02-19 - Theme for KDE Plasma 5 desktop, SDDM and more.
 * [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (Plasma 5).
@@ -175,12 +175,12 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,625 | 🐛 528 | 🌐 Shell | 📅 2026-02-08 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,627 | 🐛 529 | 🌐 Shell | 📅 2026-02-08 - Material icon theme, initially based on Paper.
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,980 | 🐛 115 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
-* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,747 | 🐛 96 | 🌐 Shell | 📅 2025-12-05 - A flat colorful Design icon theme.
+* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,748 | 🐛 96 | 🌐 Shell | 📅 2025-12-05 - A flat colorful Design icon theme.
 * [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,274 | 🐛 116 | 📅 2026-01-28 - Sweet gradient icons.
 * [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 453 | 🐛 20 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
-* [Flatery](https://github.com/cbrnix/Flatery) ⭐ 321 | 🐛 6 | 🌐 Shell | 📅 2022-03-18 - Icon theme for Linux in flat style.
+* [Flatery](https://github.com/cbrnix/Flatery) ⭐ 322 | 🐛 6 | 🌐 Shell | 📅 2022-03-18 - Icon theme for Linux in flat style.
 * [Antu](https://gitlab.com/froodo_alexis/Antu-icons) - A smooth icon theme designed for Plasma Desktop.
 
 #### Cursors
