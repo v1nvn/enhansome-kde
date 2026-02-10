@@ -127,7 +127,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Extensions
 
-* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 1,886 | 🐛 0 | 🌐 C++ | 📅 2026-02-08 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 1,887 | 🐛 0 | 🌐 C++ | 📅 2026-02-08 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
 * [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 850 | 🐛 62 | 🌐 TypeScript | 📅 2025-12-26 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 * [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 418 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - Plasma 5 applet in order to show the window appmenu.
 * [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 368 | 🐛 22 | 🌐 C++ | 📅 2025-12-26 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
@@ -146,7 +146,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 * [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,147 | 🐛 71 | 🌐 QML | 📅 2025-12-27 - A MacOS Big Sur theme for KDE Plasma.
 * [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) ⭐ 935 | 🐛 30 | 🌐 QML | 📅 2025-12-17 - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
-* [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) ⭐ 658 | 🐛 15 | 🌐 QML | 📅 2024-03-19 - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
+* [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) ⭐ 657 | 🐛 15 | 🌐 QML | 📅 2024-03-19 - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
 * [Layan](https://github.com/vinceliuice/Layan-kde) ⭐ 490 | 🐛 36 | 🌐 QML | 📅 2025-11-27 - A flat design theme for KDE Plasma desktop.
 * [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) ⚠️ Archived - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
 * [Orchis](https://github.com/vinceliuice/Orchis-kde) ⭐ 299 | 🐛 20 | 🌐 QML | 📅 2025-10-18 - A materia Design theme for KDE Plasma desktop.
@@ -175,9 +175,9 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,627 | 🐛 529 | 🌐 Shell | 📅 2026-02-08 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,630 | 🐛 529 | 🌐 Shell | 📅 2026-02-08 - Material icon theme, initially based on Paper.
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,980 | 🐛 115 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
-* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,748 | 🐛 96 | 🌐 Shell | 📅 2025-12-05 - A flat colorful Design icon theme.
+* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,749 | 🐛 96 | 🌐 Shell | 📅 2025-12-05 - A flat colorful Design icon theme.
 * [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,274 | 🐛 116 | 📅 2026-01-28 - Sweet gradient icons.
 * [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 453 | 🐛 20 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
 * [Flatery](https://github.com/cbrnix/Flatery) ⭐ 322 | 🐛 6 | 🌐 Shell | 📅 2022-03-18 - Icon theme for Linux in flat style.
@@ -186,7 +186,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 #### Cursors
 
 * [Bibata](https://store.kde.org/p/1197198/) - Material Based Cursor Theme.
-* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,179 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
+* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,180 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
 
 #### Scripts
 
@@ -198,7 +198,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 #### Display Manager
 
 * [Chili](https://github.com/MarianArlt/kde-plasma-chili) ⭐ 220 | 🐛 6 | 🌐 QML | 📅 2019-07-23 - The hottest login theme around for KDE Plasma 5.
-* [Delicious](https://github.com/stuomas/delicious-sddm-theme) ⭐ 110 | 🐛 4 | 🌐 QML | 📅 2020-10-02 - A delicious SDDM theme for DE collectors/addicts.
+* [Delicious](https://github.com/stuomas/delicious-sddm-theme) ⭐ 109 | 🐛 4 | 🌐 QML | 📅 2020-10-02 - A delicious SDDM theme for DE collectors/addicts.
 * [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) - The sweetest login theme available for the SDDM display manager.
 
 ## Documentation and Resources
