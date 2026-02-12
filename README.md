@@ -90,7 +90,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 
 ### Utilities & Tools
 
-* [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) ⭐ 691 | 🐛 38 | 🌐 Python | 📅 2026-02-01 - Auto Night-mode for Linux.
+* [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) ⭐ 690 | 🐛 38 | 🌐 Python | 📅 2026-02-01 - Auto Night-mode for Linux.
 * [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) ⭐ 369 | 🐛 41 | 🌐 C++ | 📅 2025-05-13 - GUI for fancontrol which is part of lm\_sensors.
 * [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) ⚠️ Archived - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
 * [Wacom GUI](https://github.com/tb2097/wacom-gui) ⭐ 141 | 🐛 39 | 🌐 Python | 📅 2023-07-30 - Python/PyQt Wacom GUI for KDE.
@@ -128,7 +128,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 #### Extensions
 
 * [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 1,887 | 🐛 0 | 🌐 C++ | 📅 2026-02-10 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 851 | 🐛 62 | 🌐 TypeScript | 📅 2025-12-26 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 853 | 🐛 62 | 🌐 TypeScript | 📅 2025-12-26 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 * [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 418 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - Plasma 5 applet in order to show the window appmenu.
 * [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 368 | 🐛 22 | 🌐 C++ | 📅 2025-12-26 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 * [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 248 | 🐛 25 | 🌐 QML | 📅 2024-07-11 - Plasma 5 applet that shows the current window title and icon in your panels.
@@ -164,7 +164,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 * [SierraBreeze](https://github.com/ishovkun/SierraBreeze) ⭐ 353 | 🐛 34 | 🌐 C++ | 📅 2021-11-12 - OSX-like window decoration for KDE Plasma written in C++.
 * [Sweet KDE](https://github.com/EliverLara/Sweet-kde) ⭐ 234 | 🐛 30 | 📅 2025-04-25 - A dark and modern theme for KDE plasma.
-* [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) ⭐ 207 | 🐛 1 | 🌐 C++ | 📅 2025-11-07 - A fork of KDE Breeze decoration with additional options.
+* [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) ⭐ 208 | 🐛 1 | 🌐 C++ | 📅 2025-11-07 - A fork of KDE Breeze decoration with additional options.
 * [BreezeBlurred](https://github.com/alex47/BreezeBlurred) ⚠️ Archived - A fork of KDE Breeze window decoration written in Qt C++.
 * [Akava-Kv](https://github.com/Akava-Design/Akava-Kv) ⭐ 200 | 🐛 7 | 📅 2023-03-02 - User oriented Kvantum theme for KDE.
 * [KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) ⚠️ Archived - Rounds the corners of your windows.
@@ -175,24 +175,24 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,633 | 🐛 527 | 🌐 Shell | 📅 2026-02-10 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,638 | 🐛 526 | 🌐 Shell | 📅 2026-02-12 - Material icon theme, initially based on Paper.
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,980 | 🐛 115 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
-* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,750 | 🐛 96 | 🌐 Shell | 📅 2025-12-05 - A flat colorful Design icon theme.
-* [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,277 | 🐛 116 | 📅 2026-01-28 - Sweet gradient icons.
-* [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 453 | 🐛 20 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
-* [Flatery](https://github.com/cbrnix/Flatery) ⭐ 322 | 🐛 6 | 🌐 Shell | 📅 2022-03-18 - Icon theme for Linux in flat style.
+* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,751 | 🐛 96 | 🌐 Shell | 📅 2025-12-05 - A flat colorful Design icon theme.
+* [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,279 | 🐛 116 | 📅 2026-01-28 - Sweet gradient icons.
+* [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 454 | 🐛 20 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
+* [Flatery](https://github.com/cbrnix/Flatery) ⭐ 323 | 🐛 6 | 🌐 Shell | 📅 2022-03-18 - Icon theme for Linux in flat style.
 * [Antu](https://gitlab.com/froodo_alexis/Antu-icons) - A smooth icon theme designed for Plasma Desktop.
 
 #### Cursors
 
 * [Bibata](https://store.kde.org/p/1197198/) - Material Based Cursor Theme.
-* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,180 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
+* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,181 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
 
 #### Scripts
 
 * [Kröhnkite](https://github.com/anametologin/krohnkite) ⚠️ Archived - A dynamic tiling extension for KWin.
 * [kwin-tiling](https://github.com/faho/kwin-tiling) ⚠️ Archived - Tiling script for kwin.
-* [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) ⭐ 913 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-27 - A kwin script that automatically tiles windows.
+* [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) ⭐ 914 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-27 - A kwin script that automatically tiles windows.
 * [Fluid tile](https://codeberg.org/Serroda/fluid-tile) - Simple auto tiling with UI for KWin that works natively.
 
 #### Display Manager
