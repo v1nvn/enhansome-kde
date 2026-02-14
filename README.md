@@ -127,12 +127,12 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Extensions
 
-* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 1,887 | 🐛 0 | 🌐 C++ | 📅 2026-02-10 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 855 | 🐛 61 | 🌐 TypeScript | 📅 2025-12-26 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 1,885 | 🐛 1 | 🌐 C++ | 📅 2026-02-10 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 857 | 🐛 60 | 🌐 TypeScript | 📅 2025-12-26 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 * [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 418 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - Plasma 5 applet in order to show the window appmenu.
 * [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 368 | 🐛 22 | 🌐 C++ | 📅 2025-12-26 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 * [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 248 | 🐛 25 | 🌐 QML | 📅 2024-07-11 - Plasma 5 applet that shows the current window title and icon in your panels.
-* [Hoppla](https://github.com/Fuchs/hoppla-sa) ⭐ 71 | 🐛 8 | 🌐 QML | 📅 2025-02-24 - KDE Plasma desktop widget to control Philips Hue lights.
+* [Hoppla](https://github.com/Fuchs/hoppla-sa) ⭐ 72 | 🐛 8 | 🌐 QML | 📅 2025-02-24 - KDE Plasma desktop widget to control Philips Hue lights.
 * [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) ⭐ 13 | 🐛 11 | 🌐 QML | 📅 2024-02-21 - Plasma 5 widget that gives access to user places.
 * [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
 
@@ -144,12 +144,12 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Themes
 
-* [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,148 | 🐛 71 | 🌐 QML | 📅 2025-12-27 - A MacOS Big Sur theme for KDE Plasma.
-* [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) ⭐ 936 | 🐛 30 | 🌐 QML | 📅 2025-12-17 - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
-* [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) ⭐ 657 | 🐛 15 | 🌐 QML | 📅 2024-03-19 - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
-* [Layan](https://github.com/vinceliuice/Layan-kde) ⭐ 490 | 🐛 36 | 🌐 QML | 📅 2025-11-27 - A flat design theme for KDE Plasma desktop.
+* [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,149 | 🐛 71 | 🌐 QML | 📅 2025-12-27 - A MacOS Big Sur theme for KDE Plasma.
+* [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) ⭐ 935 | 🐛 30 | 🌐 QML | 📅 2025-12-17 - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
+* [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) ⭐ 658 | 🐛 15 | 🌐 QML | 📅 2024-03-19 - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
+* [Layan](https://github.com/vinceliuice/Layan-kde) ⭐ 489 | 🐛 36 | 🌐 QML | 📅 2025-11-27 - A flat design theme for KDE Plasma desktop.
 * [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) ⚠️ Archived - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
-* [Orchis](https://github.com/vinceliuice/Orchis-kde) ⭐ 299 | 🐛 20 | 🌐 QML | 📅 2025-10-18 - A materia Design theme for KDE Plasma desktop.
+* [Orchis](https://github.com/vinceliuice/Orchis-kde) ⭐ 296 | 🐛 20 | 🌐 QML | 📅 2025-10-18 - A materia Design theme for KDE Plasma desktop.
 * [McMojave](https://github.com/vinceliuice/McMojave-kde) ⭐ 258 | 🐛 33 | 🌐 QML | 📅 2024-10-20 - A MacOSX Mojave like theme for KDE Plasma desktop.
 * [Fluent](https://github.com/vinceliuice/Fluent-kde) ⭐ 218 | 🐛 28 | 🌐 QML | 📅 2025-11-10 - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
 * [Hello](https://github.com/n4n0GH/hello) ⚠️ Archived - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
@@ -164,9 +164,9 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 * [SierraBreeze](https://github.com/ishovkun/SierraBreeze) ⭐ 353 | 🐛 34 | 🌐 C++ | 📅 2021-11-12 - OSX-like window decoration for KDE Plasma written in C++.
 * [Sweet KDE](https://github.com/EliverLara/Sweet-kde) ⭐ 234 | 🐛 30 | 📅 2025-04-25 - A dark and modern theme for KDE plasma.
-* [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) ⭐ 208 | 🐛 1 | 🌐 C++ | 📅 2025-11-07 - A fork of KDE Breeze decoration with additional options.
+* [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) ⭐ 207 | 🐛 1 | 🌐 C++ | 📅 2025-11-07 - A fork of KDE Breeze decoration with additional options.
 * [BreezeBlurred](https://github.com/alex47/BreezeBlurred) ⚠️ Archived - A fork of KDE Breeze window decoration written in Qt C++.
-* [Akava-Kv](https://github.com/Akava-Design/Akava-Kv) ⭐ 200 | 🐛 7 | 📅 2023-03-02 - User oriented Kvantum theme for KDE.
+* [Akava-Kv](https://github.com/Akava-Design/Akava-Kv) ⭐ 199 | 🐛 7 | 📅 2023-03-02 - User oriented Kvantum theme for KDE.
 * [KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) ⚠️ Archived - Rounds the corners of your windows.
 * [Breeze10](https://github.com/fauzie811/Breeze10) ⭐ 115 | 🐛 8 | 🌐 C++ | 📅 2025-11-29 - A Windows 10 style windows decoration for KDE Plasma.
 * [XBoomer](https://github.com/efskap/XBoomer) ⭐ 107 | 🐛 0 | 📅 2019-11-23 - XP Window Decorations for KDE Plasma.
@@ -175,10 +175,10 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,641 | 🐛 528 | 🌐 Shell | 📅 2026-02-12 - Material icon theme, initially based on Paper.
-* [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,979 | 🐛 115 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,642 | 🐛 528 | 🌐 Shell | 📅 2026-02-12 - Material icon theme, initially based on Paper.
+* [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,978 | 🐛 115 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
 * [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,753 | 🐛 96 | 🌐 Shell | 📅 2025-12-05 - A flat colorful Design icon theme.
-* [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,279 | 🐛 116 | 📅 2026-01-28 - Sweet gradient icons.
+* [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,279 | 🐛 115 | 📅 2026-02-14 - Sweet gradient icons.
 * [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 454 | 🐛 20 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
 * [Flatery](https://github.com/cbrnix/Flatery) ⭐ 324 | 🐛 6 | 🌐 Shell | 📅 2022-03-18 - Icon theme for Linux in flat style.
 * [Antu](https://gitlab.com/froodo_alexis/Antu-icons) - A smooth icon theme designed for Plasma Desktop.
@@ -186,7 +186,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 #### Cursors
 
 * [Bibata](https://store.kde.org/p/1197198/) - Material Based Cursor Theme.
-* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,180 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
+* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,178 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
 
 #### Scripts
 
