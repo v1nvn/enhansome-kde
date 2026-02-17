@@ -91,7 +91,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 ### Utilities & Tools
 
 * [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) ⭐ 690 | 🐛 37 | 🌐 Python | 📅 2026-02-14 - Auto Night-mode for Linux.
-* [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) ⭐ 369 | 🐛 41 | 🌐 C++ | 📅 2025-05-13 - GUI for fancontrol which is part of lm\_sensors.
+* [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) ⭐ 370 | 🐛 41 | 🌐 C++ | 📅 2025-05-13 - GUI for fancontrol which is part of lm\_sensors.
 * [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) ⚠️ Archived - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
 * [Wacom GUI](https://github.com/tb2097/wacom-gui) ⭐ 141 | 🐛 39 | 🌐 Python | 📅 2023-07-30 - Python/PyQt Wacom GUI for KDE.
 * [LocalTranslate](https://github.com/terslang/LocalTranslate) ⭐ 38 | 🐛 9 | 🌐 QML | 📅 2026-01-14 - Offline translation app built with Qt Quick that makes use of Firefox's [neural translation models](https://github.com/mozilla/firefox-translations-models) ⚠️ Archived.
@@ -127,8 +127,8 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Extensions
 
-* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 1,886 | 🐛 0 | 🌐 C++ | 📅 2026-02-10 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 861 | 🐛 59 | 🌐 TypeScript | 📅 2026-02-14 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 1,888 | 🐛 0 | 🌐 C++ | 📅 2026-02-10 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 866 | 🐛 59 | 🌐 TypeScript | 📅 2026-02-14 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 * [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 418 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - Plasma 5 applet in order to show the window appmenu.
 * [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 368 | 🐛 22 | 🌐 C++ | 📅 2025-12-26 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 * [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 248 | 🐛 25 | 🌐 QML | 📅 2024-07-11 - Plasma 5 applet that shows the current window title and icon in your panels.
@@ -144,7 +144,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Themes
 
-* [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,150 | 🐛 72 | 🌐 QML | 📅 2025-12-27 - A MacOS Big Sur theme for KDE Plasma.
+* [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,152 | 🐛 72 | 🌐 QML | 📅 2025-12-27 - A MacOS Big Sur theme for KDE Plasma.
 * [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) ⭐ 935 | 🐛 30 | 🌐 QML | 📅 2025-12-17 - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
 * [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) ⭐ 658 | 🐛 15 | 🌐 QML | 📅 2024-03-19 - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
 * [Layan](https://github.com/vinceliuice/Layan-kde) ⭐ 490 | 🐛 36 | 🌐 QML | 📅 2025-11-27 - A flat design theme for KDE Plasma desktop.
@@ -177,9 +177,9 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 * [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,651 | 🐛 529 | 🌐 Shell | 📅 2026-02-16 - Material icon theme, initially based on Paper.
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,978 | 🐛 115 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
-* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,754 | 🐛 96 | 🌐 Shell | 📅 2025-12-05 - A flat colorful Design icon theme.
-* [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,281 | 🐛 117 | 📅 2026-02-14 - Sweet gradient icons.
-* [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 455 | 🐛 21 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
+* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,753 | 🐛 96 | 🌐 Shell | 📅 2025-12-05 - A flat colorful Design icon theme.
+* [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,281 | 🐛 119 | 📅 2026-02-14 - Sweet gradient icons.
+* [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 456 | 🐛 21 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
 * [Flatery](https://github.com/cbrnix/Flatery) ⭐ 324 | 🐛 6 | 🌐 Shell | 📅 2022-03-18 - Icon theme for Linux in flat style.
 * [Antu](https://gitlab.com/froodo_alexis/Antu-icons) - A smooth icon theme designed for Plasma Desktop.
 
@@ -208,7 +208,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 * [KDE Bugtracker](https://bugs.kde.org/) - KDE's official Bugtracker 📌.
 * [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux KDE Wiki.
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) - Gentoo KDE Wiki.
-* [KDE Configs](https://github.com/shalva97/kde-configuration-files) ⭐ 1,021 | 🐛 0 | 🌐 Shell | 📅 2025-02-27 - List of KDE configuration files and more.
+* [KDE Configs](https://github.com/shalva97/kde-configuration-files) ⭐ 1,022 | 🐛 0 | 🌐 Shell | 📅 2025-02-27 - List of KDE configuration files and more.
 
 ## Articles
 
