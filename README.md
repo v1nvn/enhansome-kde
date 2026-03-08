@@ -90,11 +90,11 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 
 ### Utilities & Tools
 
-* [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) ⭐ 691 | 🐛 38 | 🌐 Python | 📅 2026-02-14 - Auto Night-mode for Linux.
-* [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) ⭐ 370 | 🐛 41 | 🌐 C++ | 📅 2025-05-13 - GUI for fancontrol which is part of lm\_sensors.
+* [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) ⭐ 691 | 🐛 39 | 🌐 Python | 📅 2026-02-14 - Auto Night-mode for Linux.
+* [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) ⭐ 372 | 🐛 42 | 🌐 C++ | 📅 2025-05-13 - GUI for fancontrol which is part of lm\_sensors.
 * [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) ⚠️ Archived - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
 * [Wacom GUI](https://github.com/tb2097/wacom-gui) ⭐ 141 | 🐛 39 | 🌐 Python | 📅 2023-07-30 - Python/PyQt Wacom GUI for KDE.
-* [LocalTranslate](https://github.com/terslang/LocalTranslate) ⭐ 38 | 🐛 9 | 🌐 QML | 📅 2026-01-14 - Offline translation app built with Qt Quick that makes use of Firefox's [neural translation models](https://github.com/mozilla/firefox-translations-models) ⚠️ Archived.
+* [LocalTranslate](https://github.com/terslang/LocalTranslate) ⭐ 41 | 🐛 10 | 🌐 QML | 📅 2026-01-14 - Offline translation app built with Qt Quick that makes use of Firefox's [neural translation models](https://github.com/mozilla/firefox-translations-models) ⚠️ Archived.
 * [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
 * [Ark](https://apps.kde.org/ark/) - Archiving Tool 📌.
 * [KDE Wallet Manager](https://invent.kde.org/utilities/kwalletmanager/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet 📌.
@@ -127,11 +127,11 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Extensions
 
-* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 1,891 | 🐛 0 | 🌐 C++ | 📅 2026-02-10 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 875 | 🐛 61 | 🌐 TypeScript | 📅 2026-02-14 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 1,903 | 🐛 1 | 🌐 C++ | 📅 2026-02-27 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 896 | 🐛 61 | 🌐 TypeScript | 📅 2026-03-07 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 * [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 418 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - Plasma 5 applet in order to show the window appmenu.
-* [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 368 | 🐛 22 | 🌐 C++ | 📅 2025-12-26 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
-* [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 248 | 🐛 25 | 🌐 QML | 📅 2024-07-11 - Plasma 5 applet that shows the current window title and icon in your panels.
+* [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 369 | 🐛 22 | 🌐 C++ | 📅 2026-03-02 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
+* [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 248 | 🐛 26 | 🌐 QML | 📅 2024-07-11 - Plasma 5 applet that shows the current window title and icon in your panels.
 * [Hoppla](https://github.com/Fuchs/hoppla-sa) ⭐ 73 | 🐛 8 | 🌐 QML | 📅 2025-02-24 - KDE Plasma desktop widget to control Philips Hue lights.
 * [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) ⭐ 13 | 🐛 11 | 🌐 QML | 📅 2024-02-21 - Plasma 5 widget that gives access to user places.
 * [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
@@ -144,17 +144,17 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Themes
 
-* [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,150 | 🐛 72 | 🌐 QML | 📅 2025-12-27 - A MacOS Big Sur theme for KDE Plasma.
-* [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) ⭐ 935 | 🐛 30 | 🌐 QML | 📅 2025-12-17 - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
-* [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) ⭐ 659 | 🐛 15 | 🌐 QML | 📅 2024-03-19 - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
-* [Layan](https://github.com/vinceliuice/Layan-kde) ⭐ 491 | 🐛 36 | 🌐 QML | 📅 2025-11-27 - A flat design theme for KDE Plasma desktop.
+* [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,157 | 🐛 72 | 🌐 QML | 📅 2025-12-27 - A MacOS Big Sur theme for KDE Plasma.
+* [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) ⭐ 937 | 🐛 31 | 🌐 QML | 📅 2025-12-17 - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
+* [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) ⭐ 661 | 🐛 15 | 🌐 QML | 📅 2024-03-19 - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
+* [Layan](https://github.com/vinceliuice/Layan-kde) ⭐ 493 | 🐛 36 | 🌐 QML | 📅 2025-11-27 - A flat design theme for KDE Plasma desktop.
 * [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) ⚠️ Archived - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
-* [Orchis](https://github.com/vinceliuice/Orchis-kde) ⭐ 297 | 🐛 21 | 🌐 QML | 📅 2025-10-18 - A materia Design theme for KDE Plasma desktop.
-* [McMojave](https://github.com/vinceliuice/McMojave-kde) ⭐ 258 | 🐛 33 | 🌐 QML | 📅 2024-10-20 - A MacOSX Mojave like theme for KDE Plasma desktop.
+* [Orchis](https://github.com/vinceliuice/Orchis-kde) ⭐ 303 | 🐛 21 | 🌐 QML | 📅 2025-10-18 - A materia Design theme for KDE Plasma desktop.
+* [McMojave](https://github.com/vinceliuice/McMojave-kde) ⭐ 259 | 🐛 33 | 🌐 QML | 📅 2024-10-20 - A MacOSX Mojave like theme for KDE Plasma desktop.
 * [Fluent](https://github.com/vinceliuice/Fluent-kde) ⭐ 221 | 🐛 28 | 🌐 QML | 📅 2025-11-10 - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
 * [Hello](https://github.com/n4n0GH/hello) ⚠️ Archived - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
 * [Qogir](https://github.com/vinceliuice/Qogir-kde) ⭐ 190 | 🐛 28 | 🌐 QML | 📅 2024-12-20 - A flat design theme for KDE Plasma desktop.
-* [ChromeOS](https://github.com/vinceliuice/ChromeOS-kde) ⭐ 185 | 🐛 24 | 🌐 QML | 📅 2025-10-25 - A materia Design theme for KDE Plasma desktop.
+* [ChromeOS](https://github.com/vinceliuice/ChromeOS-kde) ⭐ 187 | 🐛 24 | 🌐 QML | 📅 2025-10-25 - A materia Design theme for KDE Plasma desktop.
 * [Canta](https://github.com/vinceliuice/Canta-kde) ⭐ 79 | 🐛 7 | 🌐 QML | 📅 2022-05-17 - A flat design theme for KDE Plasma desktop.
 * [Darkine KDE](https://github.com/Rokin05/darkine-kde) ⭐ 45 | 🐛 1 | 🌐 CSS | 📅 2020-02-19 - Theme for KDE Plasma 5 desktop, SDDM and more.
 * [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (Plasma 5).
@@ -169,36 +169,36 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 * [Akava-Kv](https://github.com/Akava-Design/Akava-Kv) ⭐ 199 | 🐛 7 | 📅 2023-03-02 - User oriented Kvantum theme for KDE.
 * [KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) ⚠️ Archived - Rounds the corners of your windows.
 * [Breeze10](https://github.com/fauzie811/Breeze10) ⭐ 115 | 🐛 8 | 🌐 C++ | 📅 2025-11-29 - A Windows 10 style windows decoration for KDE Plasma.
-* [XBoomer](https://github.com/efskap/XBoomer) ⭐ 107 | 🐛 0 | 📅 2019-11-23 - XP Window Decorations for KDE Plasma.
-* [breeze-gtk](https://github.com/KDE/breeze-gtk) ⭐ 84 | 🐛 0 | 🌐 SCSS | 📅 2026-02-17 - A GTK Theme Built to Match KDE's Breeze 📌.
+* [XBoomer](https://github.com/efskap/XBoomer) ⭐ 108 | 🐛 0 | 📅 2019-11-23 - XP Window Decorations for KDE Plasma.
+* [breeze-gtk](https://github.com/KDE/breeze-gtk) ⭐ 84 | 🐛 0 | 🌐 SCSS | 📅 2026-03-03 - A GTK Theme Built to Match KDE's Breeze 📌.
 * [Chrome-KDE5BreezeDark](https://github.com/pdeljanov/Chrome-KDE5BreezeDark) ⭐ 23 | 🐛 0 | 📅 2021-09-05 - A theme for Chrome on KDE5 when using the Breeze Dark window decoration.
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,651 | 🐛 526 | 🌐 Shell | 📅 2026-02-21 - Material icon theme, initially based on Paper.
-* [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,979 | 🐛 115 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
-* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,757 | 🐛 97 | 🌐 Shell | 📅 2025-12-05 - A flat colorful Design icon theme.
-* [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,282 | 🐛 120 | 📅 2026-02-14 - Sweet gradient icons.
-* [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 457 | 🐛 21 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,679 | 🐛 524 | 🌐 Shell | 📅 2026-03-07 - Material icon theme, initially based on Paper.
+* [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,982 | 🐛 115 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
+* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,767 | 🐛 97 | 🌐 Shell | 📅 2025-12-05 - A flat colorful Design icon theme.
+* [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,286 | 🐛 118 | 📅 2026-03-06 - Sweet gradient icons.
+* [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 458 | 🐛 21 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
 * [Flatery](https://github.com/cbrnix/Flatery) ⭐ 324 | 🐛 6 | 🌐 Shell | 📅 2022-03-18 - Icon theme for Linux in flat style.
 * [Antu](https://gitlab.com/froodo_alexis/Antu-icons) - A smooth icon theme designed for Plasma Desktop.
 
 #### Cursors
 
 * [Bibata](https://store.kde.org/p/1197198/) - Material Based Cursor Theme.
-* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,178 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
+* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,181 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
 
 #### Scripts
 
 * [Kröhnkite](https://github.com/anametologin/krohnkite) ⚠️ Archived - A dynamic tiling extension for KWin.
 * [kwin-tiling](https://github.com/faho/kwin-tiling) ⚠️ Archived - Tiling script for kwin.
-* [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) ⭐ 914 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-27 - A kwin script that automatically tiles windows.
+* [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) ⭐ 915 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-27 - A kwin script that automatically tiles windows.
 * [Fluid tile](https://codeberg.org/Serroda/fluid-tile) - Simple auto tiling with UI for KWin that works natively.
 
 #### Display Manager
 
 * [Chili](https://github.com/MarianArlt/kde-plasma-chili) ⭐ 220 | 🐛 6 | 🌐 QML | 📅 2019-07-23 - The hottest login theme around for KDE Plasma 5.
-* [Delicious](https://github.com/stuomas/delicious-sddm-theme) ⭐ 111 | 🐛 4 | 🌐 QML | 📅 2020-10-02 - A delicious SDDM theme for DE collectors/addicts.
+* [Delicious](https://github.com/stuomas/delicious-sddm-theme) ⭐ 112 | 🐛 4 | 🌐 QML | 📅 2020-10-02 - A delicious SDDM theme for DE collectors/addicts.
 * [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) - The sweetest login theme available for the SDDM display manager.
 
 ## Documentation and Resources
@@ -208,7 +208,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 * [KDE Bugtracker](https://bugs.kde.org/) - KDE's official Bugtracker 📌.
 * [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux KDE Wiki.
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) - Gentoo KDE Wiki.
-* [KDE Configs](https://github.com/shalva97/kde-configuration-files) ⭐ 1,023 | 🐛 0 | 🌐 Shell | 📅 2025-02-27 - List of KDE configuration files and more.
+* [KDE Configs](https://github.com/shalva97/kde-configuration-files) ⭐ 1,027 | 🐛 0 | 🌐 Shell | 📅 2025-02-27 - List of KDE configuration files and more.
 
 ## Articles
 
